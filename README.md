@@ -1,5 +1,5 @@
 # Asus_K30AD_M31AD_M51AD
-Hackintosh Big Sur 11.6 EFI folder.
+Hackintosh Big Sur 11.6 (20G165) EFI folder.
 
 ## Desktop Specs:
 
@@ -21,5 +21,5 @@ HDD: 1TB WD (Win8,1 + Ubuntu + High Sierra)
 
 SSD: 240GB intel (Win10 + Big Sur)
 
-What's not working:
+## What's not working:
 everything's working except wake from sleep, i have to force shutdown to restart PC.
