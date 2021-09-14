@@ -1,7 +1,7 @@
 # Asus_K30AD_M31AD_M51AD
 Hackintosh Big Sur 11.6 EFI folder.
 
-##Desktop Specs:
+## Desktop Specs:
 
 Motherboard: ASUS H81M-E/M51AD/DP_MB
 
