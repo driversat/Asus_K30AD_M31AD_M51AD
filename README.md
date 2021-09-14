@@ -1,5 +1,6 @@
 # Asus_K30AD_M31AD_M51AD
 Hackintosh Big Sur 11.6 (20G165) EFI folder.
+
 <img src="https://github.com/driversat/Asus_K30AD_M31AD/blob/main/properties.png">
 
 # Desktop Specs:
@@ -25,6 +26,8 @@ SSD: 240GB intel (Win10 + Big Sur)
 ## What's not working:
 everything's working except wake from sleep, i have to force shutdown to restart PC.
 # Opencore menu:
+
+Opencore: 0.7.3
 <img src="https://github.com/driversat/Asus_K30AD_M31AD_M51AD/blob/main/14165924.png">
 
 # Bios settings:
