@@ -1,5 +1,6 @@
 # Asus_K30AD_M31AD_M51AD
 Hackintosh Big Sur 11.6 (20G165) EFI folder.
+<img src="https://github.com/driversat/Asus_K30AD_M31AD/blob/main/properties.png">
 
 ## Desktop Specs:
 
